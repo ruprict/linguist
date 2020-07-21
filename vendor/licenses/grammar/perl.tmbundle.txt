@@ -1,10 +1,9 @@
 ---
 type: grammar
 name: perl.tmbundle
+version: 6768cc2d13d65befde240a43e7c4ff84179787bb
 license: permissive
-curated: true
 ---
-
 If not otherwise specified (see below), files in this repository fall under the following license:
 
 	Permission to copy, use, modify, sell and distribute this

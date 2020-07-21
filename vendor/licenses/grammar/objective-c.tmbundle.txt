@@ -1,10 +1,9 @@
 ---
 type: grammar
 name: objective-c.tmbundle
+version: d59562b0948d4dae01eaee1a2b2bcde3b478404e
 license: permissive
-curated: true
 ---
-
 If not otherwise specified (see below), files in this repository fall under the following license:
 
 	Permission to copy, use, modify, sell and distribute this

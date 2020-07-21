@@ -1,6 +1,7 @@
 ---
 type: grammar
 name: sublimeprolog
+version: 9e8e142e55557465511338d5b26ca585cb729310
 license: mpl-2.0
 ---
 Mozilla Public License, version 2.0
@@ -365,4 +366,3 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
       This Source Code Form is "Incompatible
       With Secondary Licenses", as defined by
       the Mozilla Public License, v. 2.0.
-

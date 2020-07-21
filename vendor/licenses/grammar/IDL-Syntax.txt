@@ -1,6 +1,7 @@
 ---
 type: grammar
 name: IDL-Syntax
+version: 5e0c9d402656170bf3e15e540f15acc328453622
 license: mit
 ---
 The MIT License (MIT)

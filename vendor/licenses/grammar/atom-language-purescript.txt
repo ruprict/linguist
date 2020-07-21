@@ -1,6 +1,7 @@
 ---
 type: grammar
 name: atom-language-purescript
+version: a937f1f23455d4307df3e09c27dbee98bd120777
 license: mit
 ---
 Copyright (c) 2014 Darin Morrison

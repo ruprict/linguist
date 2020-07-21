@@ -1,6 +1,7 @@
 ---
 type: grammar
 name: gdscript
+version: 96f5dcf29728aa987123321e2544330eed991a3e
 license: mit
 ---
 Copyright (c) 2016 Michael Alexander

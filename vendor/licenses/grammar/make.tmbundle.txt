@@ -1,10 +1,9 @@
 ---
 type: grammar
 name: make.tmbundle
+version: d34010b6828cc662a467eabdc56fc89531c9489b
 license: permissive
-curated: true
 ---
-
 If not otherwise specified (see below), files in this repository fall under the following license:
 
 	Permission to copy, use, modify, sell and distribute this

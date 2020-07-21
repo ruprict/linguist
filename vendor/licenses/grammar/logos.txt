@@ -1,6 +1,7 @@
 ---
 type: grammar
 name: logos
+version: 89bcb9d72c08c668f84916d96887f6adff8ddb22
 license: mit
 ---
 The MIT License (MIT)

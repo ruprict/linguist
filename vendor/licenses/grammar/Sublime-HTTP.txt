@@ -1,6 +1,7 @@
 ---
 type: grammar
 name: Sublime-HTTP
+version: 645ad8612803799e4e79a8743ab727eb76570395
 license: mit
 ---
 The MIT License (MIT)
